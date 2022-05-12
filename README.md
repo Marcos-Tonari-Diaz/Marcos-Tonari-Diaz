@@ -21,10 +21,10 @@
 
 ### Personal Projects
 
-- [Learning SQL](https://github.com/Marcos-Tonari-Diaz/learning_SQL)
-- [Bain Datathon](https://github.com/Marcos-Tonari-Diaz/Desafio_Bain_2022)
 - [Design Patterns in C++](https://github.com/Marcos-Tonari-Diaz/CPPatterns)
 - [Coding Interview Preparation](https://github.com/Marcos-Tonari-Diaz/CodeInterviewPrep)
+- [Learning SQL](https://github.com/Marcos-Tonari-Diaz/learning_SQL)
+- [Bain Datathon](https://github.com/Marcos-Tonari-Diaz/Desafio_Bain_2022)
 - [Angular Udemy Course Project](https://github.com/Marcos-Tonari-Diaz/AngularCourseProject)
 - [DolhINO - super simple Dolphin Emulator - Arduino Interface using pipes](https://github.com/Marcos-Tonari-Diaz/DolphINO)
 
