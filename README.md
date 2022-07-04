@@ -7,6 +7,7 @@
 
 
 ### School Projects
+- [UNET neural network implementation in JAX](https://github.com/Marcos-Tonari-Diaz/UNET_JAX)
 - [Metal Gear Inspired Game made in C++](https://github.com/Marcos-Tonari-Diaz/EngrenagemDeMetalSolida)
 - [Software Engineering (Web Development)](https://github.com/Marcos-Tonari-Diaz/EA202_Software_Engineering)
 - [Data Structures](https://github.com/Marcos-Tonari-Diaz/MC202)
