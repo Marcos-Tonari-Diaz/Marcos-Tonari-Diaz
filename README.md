@@ -1,8 +1,8 @@
 
 
 - 👋 Hi! I’m Marcos Diaz! 😁
-- 👀 I’m a Computer Engineering Student graduating in July 2022.
-- 🌱 I’m currently learning Software Engineering, Embedded Systems Engineering and Web Development.
+- 👀 I’m a Software Engineer with a background in Computer Engineering and Machine Learning
+- 🌱 I’m currently learning Distributed Systems and Web Development.
 - 💞️ I’m looking to collaborate on Open Source Projects!
 
 
